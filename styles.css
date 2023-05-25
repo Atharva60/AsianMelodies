@@ -1,0 +1,61 @@
+#title{
+    background-color: #FA9884;
+}
+
+.image{
+    margin: 20px;
+}
+
+.progress{
+    height: 8px;
+    margin: auto 40px;
+}
+
+.header{
+    display: grid;
+    place-items: center;
+}
+
+#mainbody{
+    text-align: center;
+    padding: 7% 15%;
+    position: relative;
+    font-family: 'Bad Script', cursive;
+    background-color: #FA9884;
+}
+
+h3{
+    margin-top: 10px;
+}
+
+.bodyclass{
+    margin-bottom: 40px;
+}
+
+.btn{
+    background-color: #FA9884;
+    outline: none;
+}
+
+.btn:hover{
+    background-color:  #ff4c68;
+    outline: #FA9884;
+}
+
+.foot{
+    background-color: dimgrey;
+    text-align: center;
+    color: #ff4c68;
+}
+.ft{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a{
+    color: white;
+    margin: 30px 20px; 
+}
+
+a:hover{
+    color: #ff4c68;
+}
